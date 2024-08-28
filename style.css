@@ -1,0 +1,10 @@
+@import url("estilos/hrader.css");
+@import url('https://fonts.googleapis.com/css2?famili=dosis:wght0200..8008display-swap');
+:root{
+    --amarelo:#d7c74df7; --fundo-azul:#23239de4;
+    --lilas:#a510a5;--fonte-projeto:"dosis";
+}
+body{
+    background-color: var(--amarelo);
+    margin: 0;font-family: var(--fonte-projeto);
+}
